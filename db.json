@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "15d2",
+      "name": "aziza",
+      "password": "",
+      "email": "",
+      "liked": [],
+      "basket": []
+    },
+    {
+      "id": "dae1",
+      "name": "aziza",
+      "password": "12345678",
+      "email": "azizabonusaliyeva@gmail.com",
+      "liked": [
+        {
+          "id": "5",
+          "title": "Кресло компьютерное игровое ThunderX3 TC3 Azure Blue",
+          "description": "В кресле ThunderX3 TC3 ты будешь чувствовать себя уверенно круглый год. Вспененный наполнитель Air Tech и перфорированная обивка из экокожи свободно пропускают воздух и отводят лишнюю влагу. Благодаря этому ты можешь сосредоточиться на игре даже в самые жаркие дни.",
+          "colors": [
+            "black",
+            "blue"
+          ],
+          "rating": 5,
+          "price": 16999,
+          "isBlackFriday": false,
+          "salePercentage": 0,
+          "media": [
+            "https://img.mvideo.ru/Big/50143056bb1.jpg"
+          ],
+          "type": "furniture"
+        }
+      ],
+      "basket": []
+    }
+  ],
+  "new_products": []
+}
