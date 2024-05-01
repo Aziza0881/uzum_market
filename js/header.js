@@ -324,7 +324,7 @@ wishes2.onclick = () => {
 
 let body2 = document.querySelector('.body2')
 const divContainer = document.querySelector('#background_search');
-const baxtzod = document.querySelector(".catalog_btn");
+const aziza = document.querySelector(".catalog_btn");
 let isClicked = true;
 let showOrHide = function () {
   if (isClicked) {
@@ -342,7 +342,7 @@ function countObjectsByCategory(data, category) {
   return count;
 }
 
-baxtzod.onclick = () => {
+aziza.onclick = () => {
   showOrHide()
 }
 let user_personals = document.querySelector(".user_personal")
